@@ -653,7 +653,7 @@ p a:hover {
 }
 
 #sidebar {
-	background: #001225;
+	background: #DA5CA2;
 	color: #ffffff;
 	padding: 40px 20px;
 	position: relative;
@@ -691,7 +691,7 @@ p a:hover {
 	display: block;
 	text-transform: uppercase;
 	margin: 0 0 5px;
-	color: #00a9b0;
+	color: #DA5CA2;
 	font-weight: 900;
 	font-size: 14px;
 	line-height: 1.2;
@@ -722,7 +722,7 @@ p a:hover {
 	left: 60%;
 	right: 60%;
 	height: 2px;
-	background-image: linear-gradient(to right, #0078c3, #00a9b0);
+	background-image: linear-gradient(to right, #0078c3, #DA5CA2);
 	-webkit-transition: left .3s linear, right .3s linear;
 	transition: left .3s linear, right .3s linear;
 }
@@ -795,13 +795,13 @@ h2 {
 	text-transform: uppercase;
 	font-family: "brandon-grotesque", "Arial", "Helvetica Neue", "Helvetica", sans-serif;
 	font-weight: 700;
-	color: #00a9b0;
+	color: #DA5CA2;
 	font-size: 22px;
 	line-height: 1.21;
 }
 
 .text-box {
-	color: #001225;
+	color: #E882C5;
 	font-size: 19px;
 	line-height: 1.22;
 }
@@ -847,7 +847,7 @@ h3 strong,
 
 .bullet-list > li:before {
 	content: "";
-	background: #231f20;
+	background: #A3347D;
 	width: 5px;
 	height: 5px;
 	border-radius: 50%;
@@ -874,7 +874,7 @@ h3 strong,
 
 .tag-list {
 	letter-spacing: -4px;
-	color: #001225;
+	color: #E882C5;
 }
 
 .tag-list > li {
@@ -883,7 +883,7 @@ h3 strong,
 	vertical-align: top;
 	position: relative;
 	letter-spacing: 0;
-	color: #001225;
+	color: #E882C5;
 }
 
 .tag-list > li:after {
@@ -898,7 +898,7 @@ h3 strong,
 }
 
 .tag-list a {
-	color: #001225;
+	color: #E882C5;
 }
 
 .tag-list a:hover {
@@ -971,7 +971,7 @@ h3 strong,
 		width: 10px;
 		height: 10px;
 		border-radius: 50%;
-		background: #001225;
+		background: #E882C5;
 		position: absolute;
 		top: 8px;
 		left: 70px;
