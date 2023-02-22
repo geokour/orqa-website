@@ -533,7 +533,7 @@ p {
 }
 
 a {
-	color: #0078c3;
+	color: #DB288C;
 	text-decoration: none;
 	-webkit-transition: color .3s linear, opacity .3s linear, background .3s linear;
 	transition: color .3s linear, opacity .3s linear, background .3s linear;
@@ -560,7 +560,7 @@ textarea {
 	-webkit-appearance: none;
 	-webkit-border-radius: 0;
 	box-sizing: border-box;
-	border: 1px solid #7f7e82;
+	border: 1px solid #B41989;
 	padding: .4em .7em;
 }
 
@@ -579,7 +579,7 @@ input[type="email"]::-webkit-input-placeholder,
 input[type="search"]::-webkit-input-placeholder,
 input[type="password"]::-webkit-input-placeholder,
 textarea::-webkit-input-placeholder {
-	color: #7f7e82;
+	color: #B41989;
 }
 
 input[type="text"]::-moz-placeholder,
@@ -589,7 +589,7 @@ input[type="search"]::-moz-placeholder,
 input[type="password"]::-moz-placeholder,
 textarea::-moz-placeholder {
 	opacity: 1;
-	color: #7f7e82;
+	color: #B41989;
 }
 
 input[type="text"]:-moz-placeholder,
@@ -598,7 +598,7 @@ input[type="email"]:-moz-placeholder,
 input[type="search"]:-moz-placeholder,
 input[type="password"]:-moz-placeholder,
 textarea:-moz-placeholder {
-	color: #7f7e82;
+	color: #B41989;
 }
 
 input[type="text"]:-ms-input-placeholder,
@@ -607,7 +607,7 @@ input[type="email"]:-ms-input-placeholder,
 input[type="search"]:-ms-input-placeholder,
 input[type="password"]:-ms-input-placeholder,
 textarea:-ms-input-placeholder {
-	color: #7f7e82;
+	color: #B41989;
 }
 
 input[type="text"].placeholder,
@@ -616,7 +616,7 @@ input[type="email"].placeholder,
 input[type="search"].placeholder,
 input[type="password"].placeholder,
 textarea.placeholder {
-	color: #7f7e82;
+	color: #B41989;
 }
 
 select {
@@ -740,7 +740,7 @@ p a:hover {
 		color: #102742;
 	}
 .sidebar-info-list .websiteBy a:hover {
-		color: #7f7e82;
+		color: #B41989;
 	}
 .shop-block {
 	display: -webkit-box;
@@ -820,7 +820,7 @@ h2 {
 	font-weight: 900;
 	line-height: 1.2;
 	font-size: 15px;
-	color: #7f7e82;
+	color: #B41989;
 	margin: 0 0 12px;
 }
 
@@ -869,7 +869,7 @@ h3 strong,
 	font-weight: 700;
 	margin: 0 10px 0 0;
 	letter-spacing: .5px;
-	color: #7f7e82;
+	color: #B41989;
 }
 
 .tag-list {
@@ -946,7 +946,7 @@ h3 strong,
 		width: 10px;
 		height: 10px;
 		border-radius: 50%;
-		background: #7f7e82;
+		background: #B41989;
 		position: absolute;
 		bottom: 0;
 		left: 70px;
@@ -985,7 +985,7 @@ h3 strong,
 		top: 10px;
 		left: 74px;
 		bottom: -65px;
-		background-image: linear-gradient(#ffffff, #7f7e82);
+		background-image: linear-gradient(#ffffff, #B41989);
 	}
 
 	.year.absolute {
