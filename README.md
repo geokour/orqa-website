@@ -1,7 +1,5 @@
-# RSE Team Website
+# OrQA Website
 
-## Editing 
-To edit the details on your staff page, simply update `your-name.md` and commit. After a few minutes, the website will update automatically.
 
 ## Local Development
 
