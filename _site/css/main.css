@@ -533,7 +533,7 @@ p {
 }
 
 a {
-	color: #0078c3;
+	color: #DB288C;
 	text-decoration: none;
 	-webkit-transition: color .3s linear, opacity .3s linear, background .3s linear;
 	transition: color .3s linear, opacity .3s linear, background .3s linear;
@@ -560,7 +560,7 @@ textarea {
 	-webkit-appearance: none;
 	-webkit-border-radius: 0;
 	box-sizing: border-box;
-	border: 1px solid #7f7e82;
+	border: 1px solid #B41989;
 	padding: .4em .7em;
 }
 
@@ -579,7 +579,7 @@ input[type="email"]::-webkit-input-placeholder,
 input[type="search"]::-webkit-input-placeholder,
 input[type="password"]::-webkit-input-placeholder,
 textarea::-webkit-input-placeholder {
-	color: #7f7e82;
+	color: #B41989;
 }
 
 input[type="text"]::-moz-placeholder,
@@ -589,7 +589,7 @@ input[type="search"]::-moz-placeholder,
 input[type="password"]::-moz-placeholder,
 textarea::-moz-placeholder {
 	opacity: 1;
-	color: #7f7e82;
+	color: #B41989;
 }
 
 input[type="text"]:-moz-placeholder,
@@ -598,7 +598,7 @@ input[type="email"]:-moz-placeholder,
 input[type="search"]:-moz-placeholder,
 input[type="password"]:-moz-placeholder,
 textarea:-moz-placeholder {
-	color: #7f7e82;
+	color: #B41989;
 }
 
 input[type="text"]:-ms-input-placeholder,
@@ -607,7 +607,7 @@ input[type="email"]:-ms-input-placeholder,
 input[type="search"]:-ms-input-placeholder,
 input[type="password"]:-ms-input-placeholder,
 textarea:-ms-input-placeholder {
-	color: #7f7e82;
+	color: #B41989;
 }
 
 input[type="text"].placeholder,
@@ -616,7 +616,7 @@ input[type="email"].placeholder,
 input[type="search"].placeholder,
 input[type="password"].placeholder,
 textarea.placeholder {
-	color: #7f7e82;
+	color: #B41989;
 }
 
 select {
@@ -653,7 +653,7 @@ p a:hover {
 }
 
 #sidebar {
-	background: #001225;
+	background: #DA5CA2;
 	color: #ffffff;
 	padding: 40px 20px;
 	position: relative;
@@ -691,7 +691,7 @@ p a:hover {
 	display: block;
 	text-transform: uppercase;
 	margin: 0 0 5px;
-	color: #00a9b0;
+	color: #DA5CA2;
 	font-weight: 900;
 	font-size: 14px;
 	line-height: 1.2;
@@ -722,7 +722,7 @@ p a:hover {
 	left: 60%;
 	right: 60%;
 	height: 2px;
-	background-image: linear-gradient(to right, #0078c3, #00a9b0);
+	background-image: linear-gradient(to right, #0078c3, #DA5CA2);
 	-webkit-transition: left .3s linear, right .3s linear;
 	transition: left .3s linear, right .3s linear;
 }
@@ -740,7 +740,7 @@ p a:hover {
 		color: #102742;
 	}
 .sidebar-info-list .websiteBy a:hover {
-		color: #7f7e82;
+		color: #B41989;
 	}
 .shop-block {
 	display: -webkit-box;
@@ -795,13 +795,13 @@ h2 {
 	text-transform: uppercase;
 	font-family: "brandon-grotesque", "Arial", "Helvetica Neue", "Helvetica", sans-serif;
 	font-weight: 700;
-	color: #00a9b0;
+	color: #DA5CA2;
 	font-size: 22px;
 	line-height: 1.21;
 }
 
 .text-box {
-	color: #001225;
+	color: #E882C5;
 	font-size: 19px;
 	line-height: 1.22;
 }
@@ -820,7 +820,7 @@ h2 {
 	font-weight: 900;
 	line-height: 1.2;
 	font-size: 15px;
-	color: #7f7e82;
+	color: #B41989;
 	margin: 0 0 12px;
 }
 
@@ -847,7 +847,7 @@ h3 strong,
 
 .bullet-list > li:before {
 	content: "";
-	background: #231f20;
+	background: #A3347D;
 	width: 5px;
 	height: 5px;
 	border-radius: 50%;
@@ -869,12 +869,12 @@ h3 strong,
 	font-weight: 700;
 	margin: 0 10px 0 0;
 	letter-spacing: .5px;
-	color: #7f7e82;
+	color: #B41989;
 }
 
 .tag-list {
 	letter-spacing: -4px;
-	color: #001225;
+	color: #E882C5;
 }
 
 .tag-list > li {
@@ -883,7 +883,7 @@ h3 strong,
 	vertical-align: top;
 	position: relative;
 	letter-spacing: 0;
-	color: #001225;
+	color: #E882C5;
 }
 
 .tag-list > li:after {
@@ -898,7 +898,7 @@ h3 strong,
 }
 
 .tag-list a {
-	color: #001225;
+	color: #E882C5;
 }
 
 .tag-list a:hover {
@@ -946,7 +946,7 @@ h3 strong,
 		width: 10px;
 		height: 10px;
 		border-radius: 50%;
-		background: #7f7e82;
+		background: #B41989;
 		position: absolute;
 		bottom: 0;
 		left: 70px;
@@ -971,7 +971,7 @@ h3 strong,
 		width: 10px;
 		height: 10px;
 		border-radius: 50%;
-		background: #001225;
+		background: #E882C5;
 		position: absolute;
 		top: 8px;
 		left: 70px;
@@ -985,7 +985,7 @@ h3 strong,
 		top: 10px;
 		left: 74px;
 		bottom: -65px;
-		background-image: linear-gradient(#ffffff, #7f7e82);
+		background-image: linear-gradient(#ffffff, #B41989);
 	}
 
 	.year.absolute {
