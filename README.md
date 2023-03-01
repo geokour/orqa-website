@@ -1,7 +1,5 @@
-# RSE Team Website
+# OrQA Website
 
-## Editing 
-To edit the details on your staff page, simply update `your-name.md` and commit. After a few minutes, the website will update automatically.
 
 ## Local Development
 
@@ -28,3 +26,12 @@ Then add the Jeykll gem.
 Run the webserver at: locahost:4000
 
 ```bundle exec jekyll serve```  
+
+
+NB: on linux at least, after installing ruby and the bundler package as above, you then need to:
+
+install missing gem executables (these seem to be based on the gem file which is present in this code)
+```bundle install ```
+(NB: on a fresh linux such as vm, need make, npm and node. Also needed ubuntu-dev-tools and build-essential.) Also, issue with the snap install of ruby, seems it is better to use the apt install. 
+
+NB need to add jekyll-paginate,jekyll-sitemap,jekyll-gist,jekyll-feed and jekyll-include-cache to gemfile.
